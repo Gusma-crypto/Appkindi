@@ -1,5 +1,9 @@
 # APKINDI (Aplikasi Kinerja Prodi)
 Aplikasi ini berbasis website  dikembangkan untuk dapat membantu admin/staff universitas dalam mengelola kinerja prodi dalam upaya peningkatan kenaikan pangkat, agar lebih mudah dan praktis,
+Aplikasi ini dikembangkan oleh :
+
+(Bapak Gunardi Djoko Winardo dan Agus Sulistiono)
+
 untuk pandunan penggunaan website anda dapat membacanya melalui link berikut ini [(https://www.infosinau.my.id/2024/01/panduan-penggunaan-appkindi.html)]. Adapun demo dapat Anda akses di https://apkindi.astwebmedia.my.id/.
 
 beberapa spesifikasi diantaranya:
@@ -7,7 +11,7 @@ beberapa spesifikasi diantaranya:
 2. menggunakan AdminLTE 3.1.0. Bisa diakses di https://adminlte.io/
 3. Notifikasi menggunakan Sweetalert yang dapat diakases melalui link https://sweetalert2.github.io/
 
-# Fitur-fitur kelola apliakasi meliputi:
+# Fitur-fitur kelola aplikasi meliputi:
 - Login dan logout
 - Master Data
 - Kelola Jumlah Mahasiswa Masuk dan Keluar
